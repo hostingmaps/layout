@@ -14,7 +14,7 @@
 }
 .dca-search button:hover, .dca-domain-avail span button:hover, #checkout:hover,
 .dca-footer-banner a:hover, a.dca-comingsoon-button:hover, .filter-button:hover
-{ 	background:#34c918;
+{ 	background:#f76d00;
     -webkit-transition: background-color .2s ease-in-out;
     -moz-transition: background-color .2s ease-in-out;
     -o-transition: background-color .2s ease-in-out;
@@ -113,7 +113,7 @@ a.tooltipanimated.dca-comingsoon-button.clicked
 .dca-comingsoon-tag .dca-comingsoon-icon
 { background: url('https://cdnassets.com/ui/resellerdata/540000_569999/556117/supersite2/supersite/themes/EliteGreen-hostingmaps/images/images/dca-icons-sprite.png') no-repeat 0 -145px; height:19px; vertical-align:middle;  width:20px !important; margin:0 3px 0 0; }
 
-.dca-premiumdomain-tag { background: url('https://cdnassets.com/ui/resellerdata/540000_569999/556117/supersite2/supersite/themes/EliteGreen-hostingmaps/images/images/dca-icons-sprite.png') no-repeat -37px -145px #ff9c00;  height:19px;  width:55px !important; }
+.dca-premiumdomain-tag { background: url('https://cdnassets.com/ui/resellerdata/540000_569999/556117/supersite2/supersite/themes/EliteGreen-hostingmaps/images/images/dca-icons-sprite.png') no-repeat -37px -145px #ff9c00;  height:19px;  width:105px !important; }
 .dca-protecteddomain-tag { background: url('https://cdnassets.com/ui/resellerdata/540000_569999/556117/supersite2/supersite/themes/EliteGreen-hostingmaps/images/images/dca-icons-sprite.png') no-repeat -37px -194px #cc; height:19px;  width:70px !important; }
 
 .dca-eap-tag { background: url('https://cdnassets.com/ui/resellerdata/540000_569999/556117/supersite2/supersite/themes/EliteGreen-hostingmaps/images/images/eap-tooltip-icon.png') no-repeat #058ce9; width: 85px; text-transform: uppercase; }
@@ -150,7 +150,7 @@ a.tooltipanimated.dca-comingsoon-button.clicked
     text-align: center; padding: 0 0 0 20px; position: relative; top:40%;
 }
 .dca-page-wrapper #checkout, .dca-footer-banner a
-{ background:#2fbe15; border:1px solid #18900b; color:#fff; cursor:pointer;
+{ background:#FF7700; border:1px solid #FF7700; color:#fff; cursor:pointer;
     font-family:Lato,sans-serif; font-size:18px; font-weight: 400;text-align:center;
     width:100%; padding:16px 0;  -webkit-border-radius: 0 0 4px 4px; -moz-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;
 }
