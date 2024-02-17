@@ -113,7 +113,7 @@ a.tooltipanimated.dca-comingsoon-button.clicked
 .dca-comingsoon-tag .dca-comingsoon-icon
 { background: url('/getImage.php?src=images/dca-icons-sprite.png') no-repeat 0 -145px; height:19px; vertical-align:middle;  width:20px !important; margin:0 3px 0 0; }
 
-.dca-premiumdomain-tag { background: url('/getImage.php?src=images/dca-icons-sprite.png') no-repeat -37px -145px #ff9c00;  height:19px;  width:55px !important; }
+.dca-premiumdomain-tag { background: url('/getImage.php?src=images/dca-icons-sprite.png') no-repeat -37px -145px #ff9c00;  height:19px;  width:104px !important; }
 .dca-protecteddomain-tag { background: url('/getImage.php?src=images/dca-icons-sprite.png') no-repeat -37px -194px #ff9c00; height:19px;  width:70px !important; }
 
 .dca-eap-tag { background: url('/getImage.php?src=images/eap-tooltip-icon.png') no-repeat #058ce9; width: 85px; text-transform: uppercase; }
